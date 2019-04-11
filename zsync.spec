@@ -3,7 +3,7 @@ Version:        0.6.2
 Release:        1%{?dist}
 Summary:        zsync is a file transfer program similar to rsync
 
-License:        GPLv2+
+License:        Artistic 2.0
 URL:            http://zsync.moria.org.uk/index
 Source0:        http://zsync.moria.org.uk/download/zsync-0.6.2.tar.bz2
 
