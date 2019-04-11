@@ -9,5 +9,5 @@ zsync is open source, distributed under version 2 of the Artistic License. Feedb
 
 Notes from the build team
 ===
-- This is the first build of zsync. No GPL license was included in the archive, however we have included one here
+- This is the first build of zsync. No license was included in the archive, however we have included one here
 - To install this package you need to have the [TBL Repo](https://tbl.mirrors.theom.nz/BuildService/7/x86_64/tbl-release-7-0.noarch.rpm) installed
